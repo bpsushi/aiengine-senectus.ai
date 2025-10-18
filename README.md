@@ -2,6 +2,8 @@
 
 A comprehensive integration of **Model Context Protocol (MCP)** with a Medusa e-commerce store, featuring an intelligent shopping agent built with Anthropic's Claude Agent SDK. This project demonstrates how AI agents can autonomously interact with e-commerce systems through standardized protocols.
 
+Reccuring agent is designed to run as repeatable job to make reccuring orders.
+
 ## 🌟 Overview
 
 This project consists of two main components:
