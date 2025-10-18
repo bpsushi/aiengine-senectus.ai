@@ -2,6 +2,8 @@
 
 An intelligent shopping agent built with Anthropic's Claude Agent SDK that reads a shopping list and automatically places orders on a Medusa e-commerce store using the MCP (Model Context Protocol) server.
 
+This agent should be run as background service for reccuring orders.
+
 ## Features
 
 - 🤖 Built with official **Anthropic Claude Agent SDK**
